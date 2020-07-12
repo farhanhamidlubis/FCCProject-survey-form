@@ -130,3 +130,7 @@ textarea.form-control {
         width: 100%;
     }
 }
+
+footer a {
+    color: #ffbd39;
+}
