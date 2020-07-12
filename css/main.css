@@ -134,3 +134,8 @@ textarea.form-control {
 footer a {
     color: #ffbd39;
 }
+
+footer a:hover {
+    color: white;
+    text-decoration: none;
+}
